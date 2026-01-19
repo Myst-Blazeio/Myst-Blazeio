@@ -29,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&locale=en" alt="myst-blazeio" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&" alt="myst-blazeio" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
