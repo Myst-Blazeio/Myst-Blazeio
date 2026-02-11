@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Profile%20views&color=0e75b6&style=flat" alt="myst-blazeio" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myst-blazeio" alt="myst-blazeio" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=onedark&row=1&column=7" /></p>
 
 - 👨‍💻 All of my animation projects are available at [https://blazeio.artstation.com/](https://blazeio.artstation.com/)
 
