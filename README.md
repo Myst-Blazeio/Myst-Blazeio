@@ -1,79 +1,57 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/images/banner.jpg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/images/banner.jpg">
-    <img src="assets/images/banner.jpg" alt="Link Click Title" width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/MYST-BLAZEIO.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/MYST-BLAZEIO.png">
+    <img src="assets/images/MYST-BLAZEIO.png" alt="Myst Blazeio Banner" width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
   </picture>
 </div>
 
 <br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=50&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer" alt="Pushkar Pan Hub" />
-  </picture>
-  
-  <p>
-    <i>"The past is immutable, but the future can be changed."</i>
-  </p>
-  
-  <p>
-    <a href="https://github.com/myst-blazeio">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
-        <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
-        <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
-      </picture>
-    </a>
-  </p>
+<div align="left">
+  <img src="assets/images/profile.png" align="left" width="150" height="150" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 15px #FFD700; margin-right: 20px; object-fit: cover;" alt="Pushkar Pan">
   
   <br>
-
-  <!-- SOCIAL STRIP -->
-  <a href="https://instagram.com/myst_blazeio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> 
-  <a href="https://www.leetcode.com/pushkar_pan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a> 
-  <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
-  <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-  <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
   
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=32CD32&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer" alt="Pushkar Pan Hub" />
+  </picture>
+  
+  <p style="margin-top: 5px; color: #c9d1d9;">
+    <i>"The past is immutable, but the future can be changed."</i>
+  </p>
+
+  <p>
+    <!-- SOCIAL AND DATA STRIP -->
+    <a href="https://instagram.com/myst_blazeio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> 
+    <a href="https://www.leetcode.com/pushkar_pan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a> 
+    <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
+    <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
+    <br><br>
+    <!-- BIO BADGES -->
+    <a href="https://blazeio.artstation.com/"><img src="https://img.shields.io/badge/Digital_Archives-blazeio.artstation.com-58a6ff?style=flat"></a>
+    <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-pushkarpan03@gmail.com-58a6ff?style=flat"></a>
+    <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Client_Data-linktr.ee/BlazeioX-58a6ff?style=flat"></a>
+    <img src="https://img.shields.io/badge/%E2%9A%A1_Special_Trait-Incredibly_fast_learner-FFD700?style=flat">
+  </p>
+  
+  <br clear="left"/>
 </div>
 
-
-
-<!-- IDENTITY BOX / BIO STATS CARD -->
-<table width="100%" border="0" cellpadding="10" style="background-color: #0d1117; border: 1px solid #00BFFF; border-radius: 15px; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;">
-<tr>
-<td colspan="2" style="border-bottom: 1px solid rgba(0, 191, 255, 0.4); padding-bottom: 10px;">
-<h2 style="margin: 0; color: #c9d1d9;">
-<img src="assets/images/profile.png" width="30" height="30" style="border-radius: 50%; vertical-align: middle; margin-right: 10px; border: 2px solid #00BFFF;">
-Pushkar Pan
-</h2>
-</td>
-</tr>
-<tr>
-<!-- LEFT COLUMN: RULES & LOGS -->
-<td width="55%" valign="top" style="color: #c9d1d9; padding-right: 20px;">
-<h3 style="color: #00BFFF; margin-top: 5px; font-size: 16px;">🎞️ Mission Logs</h3>
-<div style="line-height: 1.8; font-size: 14px;">
-<span style="color: #FFD700;">▣</span> <b>Rule #1:</b> You have exactly 12 hours.<br>
-<span style="color: #FFD700;">▣</span> <b>Rule #2:</b> Do exactly as I say and leave nothing to chance.<br>
-<span style="color: #FFD700;">▣</span> <b>Rule #3:</b> Whatever happened in the past, let it be.<br>
+<div align="center">
+  <a href="https://github.com/myst-blazeio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
+      <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
+      <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
+    </picture>
+  </a>
 </div>
-</td>
 
-<!-- RIGHT COLUMN: LINKS & TRAITS -->
-<td width="45%" valign="top" style="color: #c9d1d9;">
-<h3 style="color: #00BFFF; margin-top: 5px; font-size: 16px;">⚡ Special Trait: <span style="color: #FFD700; font-weight: normal;">Incredibly fast learner</span></h3>
-<div style="line-height: 1.8; font-size: 14px;">
-👨‍💻 <b>Digital Archives:</b> <a href="https://blazeio.artstation.com/" style="color: #58a6ff; text-decoration: none;">blazeio.artstation.com</a><br>
-📫 <b>Contact Me:</b> <a href="mailto:pushkarpan03@gmail.com" style="color: #58a6ff; text-decoration: none;">pushkarpan03@gmail.com</a><br>
-📄 <b>Client Data:</b> <a href="https://linktr.ee/BlazeioX" style="color: #58a6ff; text-decoration: none;">linktr.ee/BlazeioX</a><br>
-</div>
-</td>
-</tr>
-</table>
+<br>
 
 <!-- COMPACT SIDE-BY-SIDE STATS -->
 ## 📸 Telemetry Logs // GitHub Stats
