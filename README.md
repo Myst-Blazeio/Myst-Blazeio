@@ -111,6 +111,12 @@
   <br><br>
 </div>
 
+<!-- REPOSITORY METRICS -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/myst-blazeio/Myst-Blazeio/main/metrics.repository.svg" alt="Repository Metrics" style="width: 100%; border-radius: 15px;">
+  <br><br>
+</div>
+
 <!-- SINGLE ROW TROPHIES MATCHING THEME -->
 <div align="center">
   <picture>
