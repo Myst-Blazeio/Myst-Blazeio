@@ -22,6 +22,5 @@ jobs:
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
-          plugin_projects: yes
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
