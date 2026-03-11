@@ -21,18 +21,13 @@
   </p>
 
   <p>
-    <!-- SOCIAL AND DATA STRIP -->
+    <!-- SOCIAL STRIP -->
     <a href="https://instagram.com/myst_blazeio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a> 
+    <a href="https://blazeio.artstation.com/"><img src="https://img.shields.io/badge/ArtStation-%23132032.svg?style=flat&logo=artstation&logoColor=white"></a>
     <a href="https://www.leetcode.com/pushkar_pan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a> 
     <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
     <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
     <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
-    <br><br>
-    <!-- BIO BADGES -->
-    <a href="https://blazeio.artstation.com/"><img src="https://img.shields.io/badge/Digital_Archives-blazeio.artstation.com-58a6ff?style=flat"></a>
-    <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Contact_Me-pushkarpan03@gmail.com-58a6ff?style=flat"></a>
-    <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Client_Data-linktr.ee/BlazeioX-58a6ff?style=flat"></a>
-    <img src="https://img.shields.io/badge/%E2%9A%A1_Special_Trait-Incredibly_fast_learner-FFD700?style=flat">
   </p>
   
   <br clear="left"/>
@@ -46,6 +41,8 @@
       <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
     </picture>
   </a>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait">
 </div>
 
 <br>
