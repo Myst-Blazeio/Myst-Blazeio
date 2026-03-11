@@ -56,24 +56,13 @@
     </td>
     <td width="70%" valign="top">
 <h2 style="margin-top: 0;">🎞️ Mission Logs</h2>
-<p>
 <code><b>Rule #1:</b> You have exactly 12 hours.</code><br>
 <code><b>Rule #2:</b> Do exactly as I say and leave nothing to chance.</code><br>
-<code><b>Rule #3:</b> Whatever happened in the past, let it be.</code>
-</p>
-<br>
-<p>
-<a href="https://blazeio.artstation.com/" style="text-decoration: none;">
-<kbd>👨‍💻 <b>Digital Archives:</b> blazeio.artstation.com</kbd>
-</a><br><br>
-<a href="mailto:pushkarpan03@gmail.com" style="text-decoration: none;">
-<kbd>📫 <b>Contact Me:</b> pushkarpan03@gmail.com</kbd>
-</a><br><br>
-<a href="https://linktr.ee/BlazeioX" style="text-decoration: none;">
-<kbd>📄 <b>Client Data:</b> linktr.ee/BlazeioX</kbd>
-</a><br><br>
+<code><b>Rule #3:</b> Whatever happened in the past, let it be.</code><br><br><br>
+<a href="https://blazeio.artstation.com/" style="text-decoration: none;"><kbd>👨‍💻 <b>Digital Archives:</b> blazeio.artstation.com</kbd></a><br><br>
+<a href="mailto:pushkarpan03@gmail.com" style="text-decoration: none;"><kbd>📫 <b>Contact Me:</b> pushkarpan03@gmail.com</kbd></a><br><br>
+<a href="https://linktr.ee/BlazeioX" style="text-decoration: none;"><kbd>📄 <b>Client Data:</b> linktr.ee/BlazeioX</kbd></a><br><br>
 <kbd>⚡ <b>Special Trait:</b> Incredibly fast learner</kbd>
-</p>
     </td>
   </tr>
 </table>
