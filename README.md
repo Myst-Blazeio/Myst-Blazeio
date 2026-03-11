@@ -11,9 +11,9 @@
 <div align="left">
   
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=32CD32&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer" alt="Pushkar Pan Hub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=32CD32&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer" alt="Pushkar Pan Hub" />
   </picture>
   
   <p style="margin-top: 5px; color: #c9d1d9;">
