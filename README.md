@@ -42,64 +42,57 @@
 
 
 
-<table width="100%" border="0" cellpadding="10" style="border: 1px solid rgba(0, 191, 255, 0.2); border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 191, 255, 0.05);">
-  <tr>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/myst-blazeio">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile.png">
-            <source media="(prefers-color-scheme: light)" srcset="assets/images/profile.png">
-            <img src="assets/images/profile.png" alt="Pushkar Pan" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #FFD700; border: 4px solid #00BFFF; object-fit: cover;">
-        </picture>
-      </a>
-    </td>
-    <td width="65%" valign="top">
-      <h2>🎞️ Mission Logs</h2>
-      <blockquote>
-        <i>"Rule #1: You have exactly 12 hours."</i><br>
-        <i>"Rule #2: Do exactly as I say and leave nothing to chance."</i><br>
-        <i>"Rule #3: Whatever happened in the past, let it be."</i>
-      </blockquote>
-      
-      <br>
+<!-- IDENTITY BOX -->
+<div align="center">
+  <a href="https://github.com/myst-blazeio">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/images/profile.png">
+        <img src="assets/images/profile.png" alt="Pushkar Pan" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #FFD700; border: 4px solid #00BFFF; object-fit: cover;">
+    </picture>
+  </a>
+</div>
 
-      <p>
-        <a href="https://blazeio.artstation.com/">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Digital_Archives-0d1117?style=for-the-badge&logo=artstation&logoColor=00BFFF&border=00BFFF">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Digital_Archives-f0fff0?style=for-the-badge&logo=artstation&logoColor=32CD32&labelColor=f0fff0">
-            <img src="https://img.shields.io/badge/Digital_Archives-0d1117?style=for-the-badge&logo=artstation&logoColor=00BFFF&border=00BFFF" alt="ArtStation API" />
-          </picture>
-        </a>
+<br>
 
-        <a href="mailto:pushkarpan03@gmail.com">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-0d1117?style=for-the-badge&logo=minutemailer&logoColor=FFD700">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-f0fff0?style=for-the-badge&logo=minutemailer&logoColor=333333">
-            <img src="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-0d1117?style=for-the-badge&logo=minutemailer&logoColor=FFD700" alt="Email Comms" />
-          </picture>
-        </a>
-      </p>
+## 🎞️ Mission Logs
+> *Rule #1: You have exactly 12 hours.*
+> *Rule #2: Do exactly as I say and leave nothing to chance.*
+> *Rule #3: Whatever happened in the past, let it be.*
 
-      <p>
-        <a href="https://linktr.ee/BlazeioX">
-          <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Client_Data-00BFFF?style=for-the-badge&logo=linktree&logoColor=black">
-            <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Client_Data-32CD32?style=for-the-badge&logo=linktree&logoColor=white">
-            <img src="https://img.shields.io/badge/Client_Data-00BFFF?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Client" />
-          </picture>
-        </a>
-        
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-0d1117?style=for-the-badge&logo=lightning&logoColor=FFD700">
-          <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-32CD32?style=for-the-badge&logo=lightning&logoColor=white">
-          <img src="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-0d1117?style=for-the-badge&logo=lightning&logoColor=FFD700" alt="Fast Learner Attribute" />
-        </picture>
-      </p>
+<div style="display: flex; gap: 10px;">
+  <a href="https://blazeio.artstation.com/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Digital_Archives-0d1117?style=for-the-badge&logo=artstation&logoColor=00BFFF&border=00BFFF">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Digital_Archives-f0fff0?style=for-the-badge&logo=artstation&logoColor=32CD32&labelColor=f0fff0">
+      <img src="https://img.shields.io/badge/Digital_Archives-0d1117?style=for-the-badge&logo=artstation&logoColor=00BFFF&border=00BFFF" alt="ArtStation API" />
+    </picture>
+  </a>
 
-    </td>
-  </tr>
-</table>
+  <a href="mailto:pushkarpan03@gmail.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-0d1117?style=for-the-badge&logo=minutemailer&logoColor=FFD700">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-f0fff0?style=for-the-badge&logo=minutemailer&logoColor=333333">
+      <img src="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-0d1117?style=for-the-badge&logo=minutemailer&logoColor=FFD700" alt="Email Comms" />
+    </picture>
+  </a>
+  
+  <br>
+
+  <a href="https://linktr.ee/BlazeioX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Client_Data-00BFFF?style=for-the-badge&logo=linktree&logoColor=black">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Client_Data-32CD32?style=for-the-badge&logo=linktree&logoColor=white">
+      <img src="https://img.shields.io/badge/Client_Data-00BFFF?style=for-the-badge&logo=linktree&logoColor=black" alt="Linktree Client" />
+    </picture>
+  </a>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-0d1117?style=for-the-badge&logo=lightning&logoColor=FFD700">
+    <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-32CD32?style=for-the-badge&logo=lightning&logoColor=white">
+    <img src="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-0d1117?style=for-the-badge&logo=lightning&logoColor=FFD700" alt="Fast Learner Attribute" />
+  </picture>
+</div>
 
 <br>
 
