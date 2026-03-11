@@ -81,6 +81,16 @@
 <!-- COMPACT SIDE-BY-SIDE STATS -->
 ## 📸 Telemetry Logs // GitHub Stats
 
+<!-- SINGLE ROW TROPHIES MATCHING THEME -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=journey&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Profile Trophies" width="100%"/>
+  </picture>
+  <br><br>
+</div>
+
 <table align="center" border="0" width="100%" cellpadding="5">
   <!-- ROW 1: Grid Stats & Top Languages -->
   <tr>
@@ -100,19 +110,6 @@
     </td>
   </tr>
 </table>
-
-<!-- SINGLE ROW TROPHIES MATCHING THEME -->
-<div align="center">
-  <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=journey&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Profile Trophies" width="100%"/>
-  </picture>
-  <br><br>
-</div>
-
-<!-- STREAK STATS -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=0d1117&stroke=00BFFF&ring=FFD700&fire=FFD700&currStreakNum=00BFFF&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15&border=00BFFF">
