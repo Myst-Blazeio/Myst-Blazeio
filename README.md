@@ -40,17 +40,7 @@
   
 </div>
 
-<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/images/slice of life.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/images/slice of life.png">
-    <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px; border: 1px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 20px rgba(0, 191, 255, 0.1);">
-  </picture>
-</div>
-
-<br>
 
 <table width="100%" border="0" cellpadding="10" style="border: 1px solid rgba(0, 191, 255, 0.2); border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 191, 255, 0.05);">
   <tr>
@@ -135,17 +125,7 @@
   </picture>
 </div>
 
-<br>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/images/slice of life.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/images/slice of life.png">
-    <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px; border: 1px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 20px rgba(0, 191, 255, 0.1);">
-  </picture>
-</div>
-
-<br>
 
 ## 🧩 The Arsenal // Classified Tech Stack
 
