@@ -113,7 +113,7 @@
 
 <!-- REPOSITORY METRICS -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/myst-blazeio/Myst-Blazeio/main/metrics.repository.svg" alt="Repository Metrics" style="width: 100%; border-radius: 15px;">
+  <img src="https://raw.githubusercontent.com/myst-blazeio/Myst-Blazeio/main/metrics.classic.svg" alt="Global GitHub Metrics" style="width: 100%; border-radius: 15px;">
   <br><br>
 </div>
 

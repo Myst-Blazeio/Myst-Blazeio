@@ -16,9 +16,12 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: myst-blazeio
-          template: repository
-          repo: Myst-Blazeio
-          filename: metrics.repository.svg
+          template: classic
+          filename: metrics.classic.svg
           config_timezone: Asia/Kolkata
           plugin_lines: yes
           plugin_followup: yes
+          plugin_followup_indepth: yes
+          plugin_projects: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
