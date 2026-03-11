@@ -1,95 +1,74 @@
 <div align="center">
-<img src="assets/banner.jpg" alt="Link Click Banner" width="100%" style="border-radius: 12px; border: 2px solid #00BFFF;">
+  <img src="assets/images/banner.jpg" alt="Link Click Banner" width="100%" style="border-radius: 12px; border: 2px solid #00BFFF;">
+  
+  <br><br>
+  
+  <img src="assets/images/profile.png" alt="Profile" width="160" height="160" style="border-radius: 50%; border: 3px solid #FFD700; box-shadow: 0 0 15px #FFD700;">
 
-<br>
+  <br>
 
-<a href="https://github.com/myst-blazeio">
-<img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=42A5F5&style=flat-square" alt="Profile views" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=60&lines=Welcome+to+Time+Photo+Studio;Hi,+I'm+Pushkar+Pan;FullStack+Developer+%7C+Animator" alt="Pushkar Pan Animated Name" />
+
+  <p>
+    <i>"The past is immutable, but the future can be changed."</i>
+  </p>
+  
+  <a href="https://github.com/myst-blazeio">
+    <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat-square" alt="Profile views" />
+  </a>
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=algolia&row=1&column=5&margin-w=10" alt="Profile Trophies" />
 </div>
 
 <br>
 
 <div align="center">
-<a href="https://github.com/myst-blazeio">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=45&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&height=80&lines=Welcome+to+Time+Photo+Studio;Hi,+I'm+Pushkar+Pan;FullStack+Dev+%7C+Animator" alt="Pushkar Pan Animated Name" />
-</a>
-</div>
-
-<div align="center">
-<h3><i>"The past is immutable, but the future can be changed."</i></h3>
+  <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px;">
 </div>
 
 <br>
 
-<!-- COMPACT SIDE-BY-SIDE LAYOUT (0 Indentation to prevent Markdown code block!) -->
-<table border="0" width="100%" align="center">
-<tr>
-<td width="40%" valign="top" align="center">
-<img src="assets/profile.png" alt="Profile" width="160" height="160" style="border-radius: 50%; border: 3px solid #FFD700; box-shadow: 0 0 15px #FFD700;"><br><br>
-<h3>🎞️ Mission Briefing</h3>
-<div align="left">
-<b>Rule #1:</b> You have exactly 12 hours.<br>
-<b>Rule #2:</b> Do exactly as I say.<br>
-<b>Rule #3:</b> Whatever happened, let it be.
-</div><br>
-<div align="left">
-👨‍💻 <b>Digital Archives:</b> <a href="https://blazeio.artstation.com/">ArtStation</a><br>
-📫 <b>Lu Guang's Comms:</b> pushkarpan03@gmail.com<br>
-📄 <b>Client Data:</b> <a href="https://linktr.ee/BlazeioX">LinkTree</a><br>
-⚡ <b>Special Ability:</b> Fast Learner
+<!-- COMPACT SIDE-BY-SIDE LAYOUT -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">🎞️ Mission Logs</h3>
+        <p align="left">
+          <strong>Rule #1:</strong> You have exactly 12 hours.<br>
+          <strong>Rule #2:</strong> Do exactly as I say.<br>
+          <strong>Rule #3:</strong> Whatever happened, let it be.
+        </p>
+        <p align="left">
+          👨‍💻 <b>Digital Archives:</b> <a href="https://blazeio.artstation.com/">ArtStation</a><br>
+          📫 <b>Lu Guang's Comms:</b> pushkarpan03@gmail.com<br>
+          📄 <b>Client Data:</b> <a href="https://linktr.ee/BlazeioX">LinkTree</a><br>
+          ⚡ <b>Special Traits:</b> Fast Learner
+        </p>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3 align="center">🎶 Time Travel Frequency</h3>
+        <img src="assets/images/music.png" alt="Album Cover" width="120" style="border-radius: 8px; box-shadow: 0px 0px 10px #00BFFF;"><br>
+        <p style="color: #FFD700; margin-bottom: 2px;"><b>Dive Back In Time</b></p>
+        <p style="color: #A9A9A9; font-size: 12px; margin-top: 0;">Link Click OP • Bicas</p>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=10&duration=1&color=00BFFF&center=true&vCenter=true&width=200&height=25&lines=ılıılıılıılıılıılıılıılıılı" alt="Waveform"><br>
+        
+        <!-- AUDIO PLAYER (Autoplay Loop) -->
+        <audio controls autoplay loop style="width: 250px; height: 35px; outline: none; margin-top: 10px; border-radius: 10px; border: 1px solid #00BFFF;">
+          <source src="assets/audio/Dive%20Back%20In%20Time(%E5%8B%95%E7%95%AB%E3%80%8A%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA%E3%80%8B%E7%89%87%E9%A0%AD%E6%9B%B2).mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+        </audio>
+      </td>
+    </tr>
+  </table>
 </div>
-</td>
-
-<td width="60%" valign="top" align="center">
-<h3>🎶 Time Travel Frequency</h3>
-
-<table border="1" bordercolor="#00BFFF" style="border-collapse: collapse; border-radius: 10px; background-color: #0d1117;" cellpadding="10" width="90%">
-<tr>
-<td width="30%" align="center" style="border-right: none;">
-<img src="assets/music.png" alt="Album Cover" width="100" style="border-radius: 8px; box-shadow: 0px 0px 10px #00BFFF;">
-</td>
-<td width="70%" align="left" style="border-left: none;">
-<h4 style="color: #FFD700; margin-bottom: 5px;">Dive Back In Time</h4>
-<p style="color: #A9A9A9; font-size: 12px; margin-top: 0;">Link Click OP • Bicas</p>
-
-<!-- Waveform visual -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=10&duration=1&color=00BFFF&center=false&vCenter=false&width=200&height=20&lines=ılıılıılıılıılıılıılıılıılı" alt="Waveform"><br>
-
-<!-- Visual Playback Controls -->
-<p style="margin-top: 5px;">
-<a href="assets/Dive%20Back%20In%20Time(%E5%8B%95%E7%95%AB%E3%80%8A%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA%E3%80%8B%E7%89%87%E9%A0%AD%E6%9B%B2).mp3" target="_blank">
-<img src="https://img.shields.io/badge/%E2%96%B6_PLAY-00BFFF?style=flat-square&logoColor=white" alt="Play">
-</a>
-<img src="https://img.shields.io/badge/%E2%8F%B8_PAUSE-121212?style=flat-square&logoColor=white" alt="Pause">
-<img src="https://img.shields.io/badge/%F0%9F%94%84_LOOP-121212?style=flat-square&logoColor=white" alt="Loop">
-</p>
-
-<!-- Fallback HTML Audio Element (GitHub may strip this natively) -->
-<audio controls autoplay loop style="width: 100%; height: 30px; outline: none; margin-top: 5px;">
-<source src="assets/Dive%20Back%20In%20Time(%E5%8B%95%E7%95%AB%E3%80%8A%E6%99%82%E5%85%89%E4%BB%A3%E7%90%86%E4%BA%BA%E3%80%8B%E7%89%87%E9%A0%AD%E6%9B%B2).mp3" type="audio/mpeg">
-<source src="assets/Dive%20Back%20In%20Time(動畫《時光代理人》片頭曲).mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-</td>
-</tr>
-</table>
 
 <br>
-<!-- TROPHIES -->
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=algolia&row=1&column=5&margin-w=10" alt="Profile Trophies" width="100%" />
-
-</td>
-</tr>
-</table>
-
----
 
 <div align="center">
-<img src="assets/image.png" alt="Divider" width="50%" style="border-radius: 5px;">
+  <img src="assets/images/image.png" alt="Divider" width="50%" style="border-radius: 5px;">
 </div>
 
----
+<br>
 
 ## 🧩 Developed Traits // Tech Stack
 
@@ -126,14 +105,14 @@ Your browser does not support the audio element.
 ## 📸 Film Roll // GitHub Stats
 
 <table border="0" width="100%" align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=myst-blazeio&show_icons=true&bg_color=121212&title_color=00BFFF&text_color=D0D0D0&icon_color=FFD700&border_color=00BFFF&border_radius=10" alt="GitHub stats for myst-blazeio" width="100%"/>
-</td>
-<td width="50%" align="center" valign="top">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=121212&stroke=00BFFF&ring=FFD700&fire=FFD700&currStreakNum=00BFFF&currStreakLabel=D0D0D0&sideNums=D0D0D0&sideLabels=D0D0D0&dates=D0D0D0&border_radius=10" alt="GitHub Streak for myst-blazeio" width="100%"/>
-</td>
-</tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=myst-blazeio&show_icons=true&bg_color=121212&title_color=00BFFF&text_color=D0D0D0&icon_color=FFD700&border_color=00BFFF&border_radius=10" alt="GitHub stats for myst-blazeio" width="100%"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=121212&stroke=00BFFF&ring=FFD700&fire=FFD700&currStreakNum=00BFFF&currStreakLabel=D0D0D0&sideNums=D0D0D0&sideLabels=D0D0D0&dates=D0D0D0&border_radius=10" alt="GitHub Streak for myst-blazeio" width="100%"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -141,7 +120,7 @@ Your browser does not support the audio element.
 ## 🤝 High Five // End Dive Link
 
 <p align="center">
-<a href="https://instagram.com/myst_blazeio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myst_blazeio" height="40" width="50" style="margin: 0 10px;"/></a>
-<a href="https://www.leetcode.com/pushkar_pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushkar_pan" height="40" width="50" style="margin: 0 10px;"/></a>
-<a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pushkar_pan/profile" height="40" width="50" style="margin: 0 10px;"/></a>
+  <a href="https://instagram.com/myst_blazeio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="myst_blazeio" height="40" width="50" style="margin: 0 10px;"/></a>
+  <a href="https://www.leetcode.com/pushkar_pan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pushkar_pan" height="40" width="50" style="margin: 0 10px;"/></a>
+  <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pushkar_pan/profile" height="40" width="50" style="margin: 0 10px;"/></a>
 </p>
