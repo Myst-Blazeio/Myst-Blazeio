@@ -101,8 +101,19 @@
   </tr>
 </table>
 
+<!-- SINGLE ROW TROPHIES MATCHING THEME -->
 <div align="center">
   <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=journey&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Profile Trophies" width="100%"/>
+  </picture>
+  <br><br>
+</div>
+
+<!-- STREAK STATS -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=0d1117&stroke=00BFFF&ring=FFD700&fire=FFD700&currStreakNum=00BFFF&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15&border=00BFFF">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=f0fff0&stroke=32CD32&ring=32CD32&fire=32CD32&currStreakNum=32CD32&currStreakLabel=333333&sideNums=333333&sideLabels=333333&dates=333333&border_radius=15&border=32CD32">
@@ -115,15 +126,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/myst-blazeio/Myst-Blazeio/main/metrics.classic.svg" alt="Global GitHub Metrics" style="width: 100%; border-radius: 15px;">
   <br><br>
-</div>
-
-<!-- SINGLE ROW TROPHIES MATCHING THEME -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=journey&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Profile Trophies" width="100%"/>
-  </picture>
 </div>
 
 
