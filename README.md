@@ -9,9 +9,6 @@
 <br>
 
 <div align="left">
-  <img src="assets/images/profile.png" align="left" width="150" height="150" style="border-radius: 50%; border: 4px solid #00BFFF; box-shadow: 0 0 15px #FFD700; margin-right: 20px; object-fit: cover;" alt="Pushkar Pan">
-  
-  <br>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Welcome+to+Time+Photo+Studio;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
