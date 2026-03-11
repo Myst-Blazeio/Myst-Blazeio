@@ -42,27 +42,35 @@
 
 
 
-<!-- IDENTITY BOX -->
-<table width="100%" border="0" cellpadding="10" style="border: 1px solid rgba(0, 191, 255, 0.2); border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 191, 255, 0.05);">
+<!-- IDENTITY BOX / BIO STATS CARD -->
+<table width="100%" border="0" cellpadding="10" style="background-color: #0d1117; border: 1px solid #00BFFF; border-radius: 15px; font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif;">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <a href="https://github.com/myst-blazeio">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile.png">
-            <source media="(prefers-color-scheme: light)" srcset="assets/images/profile.png">
-            <img src="assets/images/profile.png" alt="Pushkar Pan" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #FFD700; border: 4px solid #00BFFF; object-fit: cover;">
-        </picture>
-      </a>
+    <td colspan="2" style="border-bottom: 1px solid rgba(0, 191, 255, 0.4); padding-bottom: 10px;">
+      <h2 style="margin: 0; color: #c9d1d9;">
+        <img src="assets/images/profile.png" width="30" height="30" style="border-radius: 50%; vertical-align: middle; margin-right: 10px; border: 2px solid #00BFFF;">
+        Pushkar Pan
+      </h2>
     </td>
-    <td width="70%" valign="top">
-<h2 style="margin-top: 0;">🎞️ Mission Logs</h2>
-<code><b>Rule #1:</b> You have exactly 12 hours.</code><br>
-<code><b>Rule #2:</b> Do exactly as I say and leave nothing to chance.</code><br>
-<code><b>Rule #3:</b> Whatever happened in the past, let it be.</code><br><br><br>
-<a href="https://blazeio.artstation.com/" style="text-decoration: none;"><kbd>👨‍💻 <b>Digital Archives:</b> blazeio.artstation.com</kbd></a><br><br>
-<a href="mailto:pushkarpan03@gmail.com" style="text-decoration: none;"><kbd>📫 <b>Contact Me:</b> pushkarpan03@gmail.com</kbd></a><br><br>
-<a href="https://linktr.ee/BlazeioX" style="text-decoration: none;"><kbd>📄 <b>Client Data:</b> linktr.ee/BlazeioX</kbd></a><br><br>
-<kbd>⚡ <b>Special Trait:</b> Incredibly fast learner</kbd>
+  </tr>
+  <tr>
+    <!-- LEFT COLUMN: RULES & LOGS -->
+    <td width="55%" valign="top" style="color: #c9d1d9; padding-right: 20px;">
+      <h3 style="color: #00BFFF; margin-top: 5px; font-size: 16px;">🎞️ Mission Logs</h3>
+      <div style="line-height: 1.8; font-size: 14px;">
+        <span style="color: #FFD700;">▣</span> <b>Rule #1:</b> You have exactly 12 hours.<br>
+        <span style="color: #FFD700;">▣</span> <b>Rule #2:</b> Do exactly as I say and leave nothing to chance.<br>
+        <span style="color: #FFD700;">▣</span> <b>Rule #3:</b> Whatever happened in the past, let it be.<br>
+      </div>
+    </td>
+    
+    <!-- RIGHT COLUMN: LINKS & TRAITS -->
+    <td width="45%" valign="top" style="color: #c9d1d9;">
+      <h3 style="color: #00BFFF; margin-top: 5px; font-size: 16px;">⚡ Special Trait: <span style="color: #FFD700; font-weight: normal;">Incredibly fast learner</span></h3>
+      <div style="line-height: 1.8; font-size: 14px;">
+        👨‍💻 <b>Digital Archives:</b> <a href="https://blazeio.artstation.com/" style="color: #58a6ff; text-decoration: none;">blazeio.artstation.com</a><br>
+        📫 <b>Contact Me:</b> <a href="mailto:pushkarpan03@gmail.com" style="color: #58a6ff; text-decoration: none;">pushkarpan03@gmail.com</a><br>
+        📄 <b>Client Data:</b> <a href="https://linktr.ee/BlazeioX" style="color: #58a6ff; text-decoration: none;">linktr.ee/BlazeioX</a><br>
+      </div>
     </td>
   </tr>
 </table>
