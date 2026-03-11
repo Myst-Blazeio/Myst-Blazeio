@@ -67,17 +67,6 @@
   </tr>
 </table>
 
-<!-- PRIMARY TELEMETRY GRAPHS PROMOTED TO TOP -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15" alt="Activity Graph" width="100%">
-  </picture>
-</div>
-
-<br>
-
 <!-- COMPACT SIDE-BY-SIDE STATS -->
 ## 📸 Telemetry Logs // GitHub Stats
 
@@ -91,6 +80,16 @@
   <br><br>
 </div>
 
+<!-- PRIMARY TELEMETRY GRAPHS -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15" alt="Activity Graph" width="100%">
+  </picture>
+</div>
+<br>
+
 <table align="center" border="0" width="100%" cellpadding="5">
   <!-- ROW 1: Grid Stats & Top Languages -->
   <tr>
@@ -103,9 +102,9 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&bg_color=f0fff0&title_color=32CD32&text_color=333333&border_color=32CD32&border_radius=15">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15" alt="Top Languages" width="100%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=f0fff0&title_color=32CD32&text_color=333333&border_color=32CD32&border_radius=15">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15" alt="Top Languages" width="100%"/>
       </picture>
     </td>
   </tr>
