@@ -263,8 +263,3 @@
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white">
 </p>
 
-<br>
-
-<div align="center">
-  <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px;">
-</div>
