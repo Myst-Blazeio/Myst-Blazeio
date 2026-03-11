@@ -63,7 +63,7 @@
       
       <br>
 
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <p>
         <a href="https://blazeio.artstation.com/">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Digital_Archives-0d1117?style=for-the-badge&logo=artstation&logoColor=00BFFF&border=00BFFF">
@@ -79,7 +79,9 @@
             <img src="https://img.shields.io/badge/Contact_Me:-_pushkarpan03@gmail.com-0d1117?style=for-the-badge&logo=minutemailer&logoColor=FFD700" alt="Email Comms" />
           </picture>
         </a>
+      </p>
 
+      <p>
         <a href="https://linktr.ee/BlazeioX">
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Client_Data-00BFFF?style=for-the-badge&logo=linktree&logoColor=black">
@@ -93,7 +95,7 @@
           <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-32CD32?style=for-the-badge&logo=lightning&logoColor=white">
           <img src="https://img.shields.io/badge/Special_Trait:-_Fast_Learner-0d1117?style=for-the-badge&logo=lightning&logoColor=FFD700" alt="Fast Learner Attribute" />
         </picture>
-      </div>
+      </p>
 
     </td>
   </tr>
