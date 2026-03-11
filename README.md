@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="assets/images/banner.jpg" alt="Link Click Title" width="100%" style="border-radius: 15px; border: 2px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/banner.jpg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/banner.jpg">
+    <img src="assets/images/banner.jpg" alt="Link Click Title" width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
+  </picture>
 </div>
 
 <br>
@@ -39,13 +43,26 @@
 <br>
 
 <div align="center">
-  <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/slice of life.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/slice of life.png">
+    <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px; border: 1px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 20px rgba(0, 191, 255, 0.1);">
+  </picture>
 </div>
 
 <br>
 
-<table width="100%" border="0" cellpadding="10">
+<table width="100%" border="0" cellpadding="10" style="border: 1px solid rgba(0, 191, 255, 0.2); border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 191, 255, 0.05);">
   <tr>
+    <td width="35%" align="center" valign="middle">
+      <a href="https://github.com/myst-blazeio">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="assets/images/profile.png">
+            <source media="(prefers-color-scheme: light)" srcset="assets/images/profile.png">
+            <img src="assets/images/profile.png" alt="Pushkar Pan" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #FFD700; border: 4px solid #00BFFF; object-fit: cover;">
+        </picture>
+      </a>
+    </td>
     <td width="65%" valign="middle">
       <h2>🎞️ Mission Logs</h2>
       <p>
@@ -60,13 +77,19 @@
         <li>⚡ <b>Special Trait:</b> I am an incredibly fast learner</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <a href="https://github.com/myst-blazeio">
-        <img src="assets/images/profile.png" alt="Pushkar Pan" width="180" height="180" style="border-radius: 50%; box-shadow: 0 0 15px #FFD700; border: 4px solid #00BFFF; object-fit: cover;">
-      </a>
-    </td>
   </tr>
 </table>
+
+<br>
+
+<!-- PRIMARY TELEMETRY GRAPHS PROMOTED TO TOP -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15" alt="Activity Graph" width="100%">
+  </picture>
+</div>
 
 <br>
 
@@ -103,23 +126,22 @@
   <br><br>
 </div>
 
-<!-- SINGLE ROW TROPHIES -->
+<!-- SINGLE ROW TROPHIES MATCHING THEME -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=matrix&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=flat&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=matrix&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Profile Trophies" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=journey&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Profile Trophies" width="100%"/>
   </picture>
 </div>
 
 <br>
 
-<!-- FULL WIDTH METRICS -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15" alt="Activity Graph" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/slice of life.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/slice of life.png">
+    <img src="assets/images/slice of life.png" alt="Divider" width="50%" style="border-radius: 5px; border: 1px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 20px rgba(0, 191, 255, 0.1);">
   </picture>
 </div>
 
@@ -262,4 +284,3 @@
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white">
 </p>
-
