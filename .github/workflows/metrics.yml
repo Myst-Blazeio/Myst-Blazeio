@@ -17,12 +17,19 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: myst-blazeio
           template: classic
-          filename: metrics.classic.svg
+          filename: assets/metrics.professional.svg
           config_timezone: Asia/Kolkata
-          base: "activity, community, repositories, metadata"
-          plugin_lines: yes
-          plugin_followup: yes
-          plugin_followup_indepth: yes
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_projects: no
+          base: "activity, repositories, metadata"
+          
+          # Achievements plugin
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          
+          # WakaTime plugin
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_user: current

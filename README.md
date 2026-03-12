@@ -40,7 +40,7 @@
 <br>
 
 <!-- COMPACT SIDE-BY-SIDE STATS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20MISSION%20STATS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
 <!-- SINGLE ROW TROPHIES MATCHING THEME -->
 <div align="center">
@@ -90,13 +90,11 @@
   <br><br>
 </div>
 
-<!-- REPOSITORY METRICS -->
+<!-- REPOSITORY METRICS (ACHIEVEMENTS & WAKATIME) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/myst-blazeio/Myst-Blazeio/main/metrics.classic.svg" alt="Global GitHub Metrics" style="width: 100%; border-radius: 15px;">
+  <img src="assets/metrics.professional.svg" alt="Professional Metrics" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
 </div>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn" width="100%">
 
@@ -235,3 +233,18 @@
   <img src="https://img.shields.io/badge/Arduino-00979D.svg?style=flat&logo=Arduino&logoColor=white">
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white">
 </p>
+
+<br>
+
+<!-- RECREATIONAL DATA -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+
+<div align="center">
+  <img src="assets/metrics.recreational.svg" alt="Recreational Metrics" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer" width="100%"/>
+</div>
