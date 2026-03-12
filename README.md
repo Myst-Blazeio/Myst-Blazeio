@@ -90,10 +90,8 @@
   <br><br>
 </div>
 
-<!-- REPOSITORY METRICS (INTRO, BASE, LINES, CALENDAR, WAKATIME) -->
+<!-- REPOSITORY METRICS (INTRO, BASE, LINES, WAKATIME, CALENDAR) -->
 <div align="center">
-  <img src="assets/metrics.calendar.svg" alt="Isometric Calendar" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
-  <br><br>
   <img src="assets/metrics.intro.svg" alt="Introduction Stats" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
   <img src="assets/metrics.base.svg" alt="Activity & Community" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
@@ -101,6 +99,8 @@
   <img src="assets/metrics.lines.svg" alt="Code Lines & Followup" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
   <img src="assets/metrics.wakatime.svg" alt="WakaTime" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <br><br>
+  <img src="assets/metrics.calendar.svg" alt="Isometric Calendar" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
 </div>
 
