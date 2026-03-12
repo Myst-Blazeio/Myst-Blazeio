@@ -1,4 +1,4 @@
-name: WakaTime Metrics
+name: WakaTime Metrics (Hourly)
 on:
   schedule:
     - cron: "0 * * * *"
@@ -20,8 +20,6 @@ jobs:
           filename: assets/metrics.wakatime.svg
           config_timezone: Asia/Kolkata
           base: ""
-          
-          # WakaTime plugin
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os

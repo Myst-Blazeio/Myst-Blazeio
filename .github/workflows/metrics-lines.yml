@@ -1,4 +1,4 @@
-name: AniList Metrics (Daily)
+name: Lines Metrics
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,7 +7,7 @@ on:
     branches: ["main"]
 
 jobs:
-  anilist-metrics:
+  lines-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -17,11 +17,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: myst-blazeio
           template: classic
-          filename: assets/metrics.anilist.svg
+          filename: assets/metrics.lines.svg
           config_timezone: Asia/Kolkata
           base: ""
-          plugin_anilist: yes
-          plugin_anilist_user: Blazeio
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: favorites, watching, reading
-          plugin_anilist_limit: 2
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_followup_indepth: yes
