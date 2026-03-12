@@ -90,9 +90,13 @@
   <br><br>
 </div>
 
-<!-- REPOSITORY METRICS (ACHIEVEMENTS & WAKATIME) -->
+<!-- REPOSITORY METRICS (ACHIEVEMENTS, WAKATIME, GENERAL) -->
 <div align="center">
-  <img src="assets/metrics.professional.svg" alt="Professional Metrics" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <img src="assets/metrics.general.svg" alt="General Metrics" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <br><br>
+  <img src="assets/metrics.achievements.svg" alt="Achievements" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <br><br>
+  <img src="assets/metrics.wakatime.svg" alt="WakaTime" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
 </div>
 
@@ -240,7 +244,18 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
 <div align="center">
-  <img src="assets/metrics.recreational.svg" alt="Recreational Metrics" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <img src="assets/metrics.anilist.svg" alt="AniList Progress" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <br><br>
+  <table align="center" border="0" width="100%" cellpadding="5">
+    <tr>
+      <td width="50%" align="center">
+        <img src="assets/metrics.music.top.svg" alt="Most Played" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+      </td>
+      <td width="50%" align="center">
+        <img src="assets/metrics.music.recent.svg" alt="Last Played" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
