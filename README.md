@@ -20,7 +20,7 @@
   </p>
 </div>
 
-<div align="center">
+<div align="start">
 
  <a href="https://github.com/myst-blazeio"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
