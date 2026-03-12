@@ -67,9 +67,9 @@
   <tr>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=FFD700&border_color=00BFFF&border_radius=15">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&include_all_commits=true&count_private=true&bg_color=f0fff0&title_color=32CD32&text_color=333333&icon_color=32CD32&border_color=32CD32&border_radius=15">
-        <img src="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=FFD700&border_color=00BFFF&border_radius=15" alt="GitHub stats" width="100%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&card_width=500&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=FFD700&border_color=00BFFF&border_radius=15">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&card_width=500&bg_color=f0fff0&title_color=32CD32&text_color=333333&icon_color=32CD32&border_color=32CD32&border_radius=15">
+        <img src="https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&include_all_commits=true&count_private=true&show=reviews,prs_merged,prs_merged_percentage&card_width=500&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&icon_color=FFD700&border_color=00BFFF&border_radius=15" alt="GitHub stats" width="100%"/>
       </picture>
     </td>
     <td width="50%" align="center">
