@@ -19,8 +19,7 @@ jobs:
           template: classic
           filename: assets/metrics.professional.svg
           config_timezone: Asia/Kolkata
-          config_footer: no
-          base: "activity, community, repositories, metadata"
+          base: "activity, community, repositories"
           
           # Introduction plugin
           plugin_introduction: yes
