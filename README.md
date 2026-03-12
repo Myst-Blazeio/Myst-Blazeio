@@ -28,40 +28,40 @@
 </div>
 
 <br>
-![Separator Dark](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A0d1117%2C100%3A0d1117&amp;height=2&amp;section=header&amp;v=2#gh-dark-mode-only)
-![Separator Light](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A32CD32%2C100%3A32CD32&amp;height=2&amp;section=header&amp;v=2#gh-light-mode-only)
+![Separator Dark](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A0d1117%2C100%3A0d1117&height=2&v=2#gh-dark-mode-only)
+![Separator Light](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A32CD32%2C100%3A32CD32&height=2&v=2#gh-light-mode-only)
 <br>
 
-![Header Professional Dark](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A0d1117%2C100%3A0d1117&amp;height=40&amp;section=header&amp;text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&amp;fontSize=18&amp;fontColor=00BFFF&amp;fontAlignY=65&amp;v=2#gh-dark-mode-only)
-![Header Professional Light](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3Affffff%2C100%3Affffff&amp;height=40&amp;section=header&amp;text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&amp;fontSize=18&amp;fontColor=32CD32&amp;fontAlignY=65&amp;v=2#gh-light-mode-only)
+![Header Professional Dark](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A0d1117%2C100%3A0d1117&height=40&text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&v=2#gh-dark-mode-only)
+![Header Professional Light](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3Affffff%2C100%3Affffff&height=40&text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&fontSize=18&fontColor=32CD32&fontAlignY=65&v=2#gh-light-mode-only)
 
 <div align="center">
-  ![Trophies Dark](https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&amp;theme=radical&amp;row=1&amp;column=6&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true&amp;no-frame=true&amp;v=2#gh-dark-mode-only)
-  ![Trophies Light](https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&amp;theme=journey&amp;row=1&amp;column=6&amp;margin-w=10&amp;margin-h=10&amp;no-bg=true&amp;no-frame=true&amp;v=2#gh-light-mode-only)
+  ![Trophies Dark](https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=radical&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&v=2#gh-dark-mode-only)
+  ![Trophies Light](https://github-profile-trophy.screw-hand.vercel.app/?username=myst-blazeio&theme=journey&row=1&column=6&margin-w=10&margin-h=10&no-bg=true&no-frame=true&v=2#gh-light-mode-only)
   <br><br>
 </div>
 
 <div align="center">
-  ![Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&amp;bg_color=0d1117&amp;color=c9d1d9&amp;line=FFD700&amp;point=00BFFF&amp;area=true&amp;hide_border=false&amp;title_color=00BFFF&amp;radius=15&amp;v=2#gh-dark-mode-only)
-  ![Activity Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&amp;bg_color=f0fff0&amp;color=333333&amp;line=32CD32&amp;point=32CD32&amp;area=true&amp;hide_border=false&amp;title_color=32CD32&amp;radius=15&amp;v=2#gh-light-mode-only)
+  ![Activity Graph Dark](https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15&v=2#gh-dark-mode-only)
+  ![Activity Graph Light](https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15&v=2#gh-light-mode-only)
 </div>
 <br>
 
 <table align="center" border="0" width="100%" cellpadding="5">
   <tr>
     <td width="50%" align="center">
-      [![Stats Dark](https://github-readme-stats.vercel.app/api?username=myst-blazeio&amp;show_icons=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=00BFFF&amp;text_color=c9d1d9&amp;border_color=00BFFF&amp;border_radius=15&amp;v=2#gh-dark-mode-only)](https://github.com/myst-blazeio)
-      [![Stats Light](https://github-readme-stats.vercel.app/api?username=myst-blazeio&amp;show_icons=true&amp;count_private=true&amp;bg_color=f0fff0&amp;title_color=32CD32&amp;text_color=333333&amp;border_color=32CD32&amp;border_radius=15&amp;v=2#gh-light-mode-only)](https://github.com/myst-blazeio)
+      [![Stats Dark](https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&count_private=true&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15&v=2#gh-dark-mode-only)](https://github.com/myst-blazeio)
+      [![Stats Light](https://github-readme-stats.vercel.app/api?username=myst-blazeio&show_icons=true&count_private=true&bg_color=f0fff0&title_color=32CD32&text_color=333333&border_color=32CD32&border_radius=15&v=2#gh-light-mode-only)](https://github.com/myst-blazeio)
     </td>
     <td width="50%" align="center">
-      [![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&amp;layout=compact&amp;hide=jupyter%20notebook&amp;langs_count=6&amp;custom_title=Top%20Langs&amp;bg_color=0d1117&amp;title_color=00BFFF&amp;text_color=c9d1d9&amp;border_color=00BFFF&amp;border_radius=15&amp;v=2#gh-dark-mode-only)](https://github.com/myst-blazeio)
-      [![Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&amp;layout=compact&amp;hide=jupyter%20notebook&amp;langs_count=6&amp;custom_title=Top%20Langs&amp;bg_color=f0fff0&amp;title_color=32CD32&amp;text_color=333333&amp;border_color=32CD32&amp;border_radius=15&amp;v=2#gh-light-mode-only)](https://github.com/myst-blazeio)
+      [![Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15&v=2#gh-dark-mode-only)](https://github.com/myst-blazeio)
+      [![Langs Light](https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=f0fff0&title_color=32CD32&text_color=333333&border_color=32CD32&border_radius=15&v=2#gh-light-mode-only)](https://github.com/myst-blazeio)
     </td>
   </tr>
 </table>
 <div align="center">
-  ![Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&amp;background=0d1117&amp;stroke=00BFFF&amp;ring=FFD700&amp;fire=FFD700&amp;currStreakNum=00BFFF&amp;currStreakLabel=c9d1d9&amp;sideNums=c9d1d9&amp;sideLabels=c9d1d9&amp;dates=c9d1d9&amp;border_radius=15&amp;border=00BFFF&amp;v=2#gh-dark-mode-only)
-  ![Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&amp;background=f0fff0&amp;stroke=32CD32&amp;ring=32CD32&amp;fire=32CD32&amp;currStreakNum=32CD32&amp;currStreakLabel=333333&amp;sideNums=333333&amp;sideLabels=333333&amp;dates=333333&amp;border_radius=15&amp;border=32CD32&amp;v=2#gh-light-mode-only)
+  ![Streak Dark](https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=0d1117&stroke=00BFFF&ring=FFD700&fire=FFD700&currStreakNum=00BFFF&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15&border=00BFFF&v=2#gh-dark-mode-only)
+  ![Streak Light](https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=f0fff0&stroke=32CD32&ring=32CD32&fire=32CD32&currStreakNum=32CD32&currStreakLabel=333333&sideNums=333333&sideLabels=333333&dates=333333&border_radius=15&border=32CD32&v=2#gh-light-mode-only)
   <br><br>
 </div>
 
@@ -84,16 +84,16 @@
   <br><br>
 </div>
 <br>
-![Separator Dark](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A0d1117%2C100%3A0d1117&amp;height=2&amp;section=header&amp;v=2#gh-dark-mode-only)
-![Separator Light](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A32CD32%2C100%3A32CD32&amp;height=2&amp;section=header&amp;v=2#gh-light-mode-only)
+![Separator Dark](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A0d1117%2C100%3A0d1117&height=2&v=2#gh-dark-mode-only)
+![Separator Light](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A32CD32%2C100%3A32CD32&height=2&v=2#gh-light-mode-only)
 <br>
 
-![Header Tech Dark](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A0d1117%2C100%3A0d1117&amp;height=40&amp;section=header&amp;text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&amp;fontSize=18&amp;fontColor=00BFFF&amp;fontAlignY=65&amp;v=2#gh-dark-mode-only)
-![Header Tech Light](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3Affffff%2C100%3Affffff&amp;height=40&amp;section=header&amp;text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&amp;fontSize=18&amp;fontColor=32CD32&amp;fontAlignY=65&amp;v=2#gh-light-mode-only)
+![Header Tech Dark](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A0d1117%2C100%3A0d1117&height=40&text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&v=2#gh-dark-mode-only)
+![Header Tech Light](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3Affffff%2C100%3Affffff&height=40&text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=32CD32&fontAlignY=65&v=2#gh-light-mode-only)
 
 <h3>
-  ![Core Languages Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=300&amp;height=30&amp;lines=%E2%97%88%20CORE%20LANGUAGES&amp;v=2#gh-dark-mode-only)
-  ![Core Languages Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=300&amp;height=30&amp;lines=%E2%97%88%20CORE%20LANGUAGES&amp;v=2#gh-light-mode-only)
+  ![Core Languages Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=300&height=30&lines=%E2%97%88%20CORE%20LANGUAGES&v=2#gh-dark-mode-only)
+  ![Core Languages Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=300&height=30&lines=%E2%97%88%20CORE%20LANGUAGES&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
@@ -108,8 +108,8 @@
 </p>
 
 <h3>
-  ![Frontend Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=450&amp;height=30&amp;lines=%E2%97%88%20FRONTEND%20%26%20WEB%20STACK&amp;v=2#gh-dark-mode-only)
-  ![Frontend Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=450&amp;height=30&amp;lines=%E2%97%88%20FRONTEND%20%26%20WEB%20STACK&amp;v=2#gh-light-mode-only)
+  ![Frontend Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88%20FRONTEND%20%26%20WEB%20STACK&v=2#gh-dark-mode-only)
+  ![Frontend Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=450&height=30&lines=%E2%97%88%20FRONTEND%20%26%20WEB%20STACK&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
@@ -130,8 +130,8 @@
 </p>
 
 <h3>
-  ![Backend Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=450&amp;height=30&amp;lines=%E2%97%88%20BACKEND%20SYSTEMS%20%26%20APIs&amp;v=2#gh-dark-mode-only)
-  ![Backend Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=450&amp;height=30&amp;lines=%E2%97%88%20BACKEND%20SYSTEMS%20%26%20APIs&amp;v=2#gh-light-mode-only)
+  ![Backend Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88%20BACKEND%20SYSTEMS%20%26%20APIs&v=2#gh-dark-mode-only)
+  ![Backend Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=450&height=30&lines=%E2%97%88%20BACKEND%20SYSTEMS%20%26%20APIs&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
@@ -146,8 +146,8 @@
 </p>
 
 <h3>
-  ![Database Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20DATABASE%20%26%20CLOUD%20MAINFRAMES&amp;v=2#gh-dark-mode-only)
-  ![Database Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20DATABASE%20%26%20CLOUD%20MAINFRAMES&amp;v=2#gh-light-mode-only)
+  ![Database Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88%20DATABASE%20%26%20CLOUD%20MAINFRAMES&v=2#gh-dark-mode-only)
+  ![Database Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88%20DATABASE%20%26%20CLOUD%20MAINFRAMES&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/Firebase-ED6A31?style=flat&logo=firebase&logoColor=white">
@@ -163,8 +163,8 @@
 </p>
 
 <h3>
-  ![DevOps Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=450&amp;height=30&amp;lines=%E2%97%88%20DEVOPS%20%26%20SECURITY%20OPS&amp;v=2#gh-dark-mode-only)
-  ![DevOps Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=450&amp;height=30&amp;lines=%E2%97%88%20DEVOPS%20%26%20SECURITY%20OPS&amp;v=2#gh-light-mode-only)
+  ![DevOps Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88%20DEVOPS%20%26%20SECURITY%20OPS&v=2#gh-dark-mode-only)
+  ![DevOps Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=450&height=30&lines=%E2%97%88%20DEVOPS%20%26%20SECURITY%20OPS&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/Git-FF6C37?style=flat&logo=Git&logoColor=white">
@@ -184,8 +184,8 @@
 </p>
 
 <h3>
-  ![AI Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20AI%2C%20NEURAL%20%26%20DATA%20COMPUTING&amp;v=2#gh-dark-mode-only)
-  ![AI Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20AI%2C%20NEURAL%20%26%20DATA%20COMPUTING&amp;v=2#gh-light-mode-only)
+  ![AI Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88%20AI%2C%20NEURAL%20%26%20DATA%20COMPUTING&v=2#gh-dark-mode-only)
+  ![AI Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88%20AI%2C%20NEURAL%20%26%20DATA%20COMPUTING&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
@@ -202,8 +202,8 @@
 </p>
 
 <h3>
-  ![Visuals Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20VISUALS%2C%20RENDERING%20%26%20ANIMATION&amp;v=2#gh-dark-mode-only)
-  ![Visuals Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20VISUALS%2C%20RENDERING%20%26%20ANIMATION&amp;v=2#gh-light-mode-only)
+  ![Visuals Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88%20VISUALS%2C%20RENDERING%20%26%20ANIMATION&v=2#gh-dark-mode-only)
+  ![Visuals Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88%20VISUALS%2C%20RENDERING%20%26%20ANIMATION&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white">
@@ -228,8 +228,8 @@
 </p>
 
 <h3>
-  ![OS Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=00BFFF&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20OPERATING%20SYSTEMS%20%26%20PLATFORMS&amp;v=2#gh-dark-mode-only)
-  ![OS Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=20&amp;pause=1000&amp;color=32CD32&amp;width=550&amp;height=30&amp;lines=%E2%97%88%20OPERATING%20SYSTEMS%20%26%20PLATFORMS&amp;v=2#gh-light-mode-only)
+  ![OS Dark](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88%20OPERATING%20SYSTEMS%20%26%20PLATFORMS&v=2#gh-dark-mode-only)
+  ![OS Light](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88%20OPERATING%20SYSTEMS%20%26%20PLATFORMS&v=2#gh-light-mode-only)
 </h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
@@ -252,13 +252,13 @@
 </p>
 
 <br>
-![Separator Dark](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A0d1117%2C100%3A0d1117&amp;height=2&amp;section=header&amp;v=2#gh-dark-mode-only)
-![Separator Light](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A32CD32%2C100%3A32CD32&amp;height=2&amp;section=header&amp;v=2#gh-light-mode-only)
+![Separator Dark](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A0d1117%2C100%3A0d1117&height=2&v=2#gh-dark-mode-only)
+![Separator Light](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A32CD32%2C100%3A32CD32&height=2&v=2#gh-light-mode-only)
 <br>
 
 <!-- RECREATIONAL DATA -->
-![Header Recreational Dark](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3A0d1117%2C100%3A0d1117&amp;height=40&amp;section=header&amp;text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&amp;fontSize=18&amp;fontColor=00BFFF&amp;fontAlignY=65&amp;v=2#gh-dark-mode-only)
-![Header Recreational Light](https://capsule-render.vercel.app/api?type=rect&amp;color=0%3Affffff%2C100%3Affffff&amp;height=40&amp;section=header&amp;text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&amp;fontSize=18&amp;fontColor=32CD32&amp;fontAlignY=65&amp;v=2#gh-light-mode-only)
+![Header Recreational Dark](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3A0d1117%2C100%3A0d1117&height=40&text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&v=2#gh-dark-mode-only)
+![Header Recreational Light](https://capsule-render.vercel.app/api?section=header&type=rect&color=0%3Affffff%2C100%3Affffff&height=40&text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=32CD32&fontAlignY=65&v=2#gh-light-mode-only)
 
 <div align="center">
   ![AniList Dark](assets/metrics.anilist.dark.svg?v=2#gh-dark-mode-only)
@@ -268,6 +268,6 @@
 <br>
 
 <div align="center">
-  ![Footer Dark](https://capsule-render.vercel.app/api?type=waving&amp;color=00BFFF&amp;height=60&amp;section=footer&amp;v=2#gh-dark-mode-only)
-  ![Footer Light](https://capsule-render.vercel.app/api?type=waving&amp;color=32CD32&amp;height=60&amp;section=footer&amp;v=2#gh-light-mode-only)
+  ![Footer Dark](https://capsule-render.vercel.app/api?section=footer&type=waving&color=00BFFF&height=60&v=2#gh-dark-mode-only)
+  ![Footer Light](https://capsule-render.vercel.app/api?section=footer&type=waving&color=32CD32&height=60&v=2#gh-light-mode-only)
 </div>
