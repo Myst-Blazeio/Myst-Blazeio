@@ -74,9 +74,9 @@
     </td>
     <td width="50%" align="center">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=f0fff0&title_color=32CD32&text_color=333333&border_color=32CD32&border_radius=15">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15" alt="Top Languages" width="100%"/>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=f0fff0&title_color=32CD32&text_color=333333&border_color=32CD32&border_radius=15">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myst-blazeio&layout=compact&hide=jupyter%20notebook&langs_count=6&custom_title=Top%20Langs&bg_color=0d1117&title_color=00BFFF&text_color=c9d1d9&border_color=00BFFF&border_radius=15" alt="Top Languages" width="100%"/>
       </picture>
     </td>
   </tr>
