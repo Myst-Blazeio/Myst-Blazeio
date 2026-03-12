@@ -19,6 +19,7 @@ jobs:
           template: classic
           filename: metrics.classic.svg
           config_timezone: Asia/Kolkata
+          base: "activity, community, repositories, metadata"
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
