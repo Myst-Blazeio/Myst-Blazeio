@@ -37,11 +37,7 @@
 
 </div>
 
-<br><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32%2C100:32CD32&height=2&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header" width="100%">
-</picture><br>
+<br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.3); margin: 10px 0;"><br>
 
 <!-- COMPACT SIDE-BY-SIDE STATS -->
 <h2 align="left">◈ TELEMETRY LOGS // PROFESSIONAL DATA</h2>
@@ -127,11 +123,7 @@
   </picture>
   <br><br>
 </div>
-<br><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32%2C100:32CD32&height=2&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header" width="100%">
-</picture><br>
+<br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.3); margin: 10px 0;"><br>
 
 <h2 align="left">◈ THE ARSENAL // CLASSIFIED TECH STACK</h2>
 
@@ -303,11 +295,7 @@
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white">
 </p>
 
-<br><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32%2C100:32CD32&height=2&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header" width="100%">
-</picture><br>
+<br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.3); margin: 10px 0;"><br>
 
 <!-- RECREATIONAL DATA -->
 <h2 align="left">◈ RECREATIONAL DATA // HOBBY PROTOCOLS</h2>
