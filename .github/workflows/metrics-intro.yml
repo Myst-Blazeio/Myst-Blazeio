@@ -19,6 +19,7 @@ jobs:
           template: classic
           filename: assets/metrics.intro.svg
           config_timezone: Asia/Kolkata
-          base: ""
+          base: header
+          base_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: no
