@@ -38,16 +38,16 @@
 </div>
 
 <br><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32,100:32CD32&height=2&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32%2C100:32CD32&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header" width="100%">
 </picture><br>
 
 <!-- COMPACT SIDE-BY-SIDE STATS -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=32CD32&fontAlignY=65&desc=&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=40&section=header&text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff%2C100:ffffff&height=40&section=header&text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&fontSize=18&fontColor=32CD32&fontAlignY=65">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=40&section=header&text=%E2%97%88%20TELEMETRY%20LOGS%20%2F%2F%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65" width="100%">
 </picture>
 
 <!-- SINGLE ROW TROPHIES MATCHING THEME -->
@@ -132,15 +132,15 @@
   <br><br>
 </div>
 <br><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32,100:32CD32&height=2&section=header">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32%2C100:32CD32&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header" width="100%">
 </picture><br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=32CD32&fontAlignY=65&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=40&section=header&text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff%2C100:ffffff&height=40&section=header&text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=32CD32&fontAlignY=65">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=40&section=header&text=%E2%97%88%20THE%20ARSENAL%20%2F%2F%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65" width="100%">
 </picture>
 
 <h3><picture>
@@ -311,13 +311,17 @@
   <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat&logo=nVIDIA&logoColor=white">
 </p>
 
-<br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.2); margin: 20px 0;"><br>
+<br><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32%2C100:32CD32&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=2&section=header" width="100%">
+</picture><br>
 
 <!-- RECREATIONAL DATA -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=32CD32&fontAlignY=65&desc=&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=40&section=header&text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff%2C100:ffffff&height=40&section=header&text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=32CD32&fontAlignY=65">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117%2C100:0d1117&height=40&section=header&text=%E2%97%88%20RECREATIONAL%20DATA%20%2F%2F%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65" width="100%">
 </picture>
 
 <div align="center">
