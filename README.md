@@ -9,38 +9,35 @@
 <br>
 
 <div align="left">
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
     <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=32CD32&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer" alt="Pushkar Pan Hub" />
   </picture>
-  
+
   <p style="margin-top: 5px; color: #c9d1d9;">
     <i>"The past is immutable, but the future can be changed."</i>
   </p>
+</div>
 
-  <table width="100%" border="0" cellpadding="4" cellspacing="0">
-  <tr>
-  <td>
-    <a href="https://github.com/myst-blazeio"><picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
-      <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
-      <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
-    </picture></a>
-    &nbsp;
-    <a href="https://instagram.com/myst_blazeio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
-    <a href="https://blazeio.artstation.com/"><img src="https://img.shields.io/badge/ArtStation-%23132032.svg?style=flat&logo=artstation&logoColor=white"></a>
-    <a href="https://www.leetcode.com/pushkar_pan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a>
-    <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
-    <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
-    <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
-  </td>
-  <td align="right">
-    <img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait">
-  </td>
-  </tr>
-  </table>
+<div align="center">
+
+  <a href="https://instagram.com/myst_blazeio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
+  <a href="https://blazeio.artstation.com/"><img src="https://img.shields.io/badge/ArtStation-%23132032.svg?style=flat&logo=artstation&logoColor=white"></a>
+  <a href="https://www.leetcode.com/pushkar_pan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a>
+  <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
+  <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
+
+  <br><br>
+
+  <a href="https://github.com/myst-blazeio"><picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
+  </picture></a>
+  &nbsp;•&nbsp;
+  <img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait">
 
 </div>
 
