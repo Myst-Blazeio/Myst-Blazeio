@@ -24,8 +24,9 @@ jobs:
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
-          # Dark: Blue accent on Black background
-          colors: '{"accent": "#00BFFF", "header": "#ffffff", "text": "#c9d1d9", "background": "#0d1117"}'
+          extras_css: |
+            h2, .field { color: #00BFFF !important; }
+            svg { background: #0d1117 !important; }
 
       - name: Lines Metrics (Light)
         uses: lowlighter/metrics@latest
@@ -39,5 +40,6 @@ jobs:
           plugin_lines: yes
           plugin_followup: yes
           plugin_followup_indepth: yes
-          # Light: Green accent on White background
-          colors: '{"accent": "#32CD32", "header": "#333333", "text": "#333333", "background": "#ffffff"}'
+          extras_css: |
+            h2, .field { color: #32CD32 !important; }
+            svg { background: #ffffff !important; }

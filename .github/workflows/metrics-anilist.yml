@@ -26,8 +26,9 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_limit: 2
-          # Dark: Blue accent on Black background
-          colors: '{"accent": "#00BFFF", "header": "#ffffff", "text": "#c9d1d9", "background": "#0d1117"}'
+          extras_css: |
+            h2, .field { color: #00BFFF !important; }
+            svg { background: #0d1117 !important; }
 
       - name: AniList Metrics (Light)
         uses: lowlighter/metrics@latest
@@ -43,5 +44,6 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading
           plugin_anilist_limit: 2
-          # Light: Green accent on White background
-          colors: '{"accent": "#32CD32", "header": "#333333", "text": "#333333", "background": "#ffffff"}'
+          extras_css: |
+            h2, .field { color: #32CD32 !important; }
+            svg { background: #ffffff !important; }

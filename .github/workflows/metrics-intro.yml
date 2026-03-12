@@ -20,13 +20,15 @@ jobs:
           template: classic
           filename: assets/metrics.intro.dark.svg
           config_timezone: Asia/Kolkata
-          base: header
+          base: header, intro
           base_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: no
           config_order: base.header, introduction
           # Dark: Blue accent on Black background
-          colors: '{"accent": "#00BFFF", "header": "#ffffff", "text": "#c9d1d9", "background": "#0d1117"}'
+          extras_css: |
+            h2, .field { color: #00BFFF !important; }
+            svg { background: #0d1117 !important; }
 
       - name: Intro Metrics (Light)
         uses: lowlighter/metrics@latest
@@ -36,10 +38,12 @@ jobs:
           template: classic
           filename: assets/metrics.intro.light.svg
           config_timezone: Asia/Kolkata
-          base: header
+          base: header, intro
           base_indepth: yes
           plugin_introduction: yes
           plugin_introduction_title: no
           config_order: base.header, introduction
           # Light: Green accent on White background
-          colors: '{"accent": "#32CD32", "header": "#333333", "text": "#333333", "background": "#ffffff"}'
+          extras_css: |
+            h2, .field { color: #32CD32 !important; }
+            svg { background: #ffffff !important; }

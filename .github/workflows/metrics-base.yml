@@ -21,8 +21,9 @@ jobs:
           filename: assets/metrics.base.dark.svg
           config_timezone: Asia/Kolkata
           base: "activity, community"
-          # Dark: Blue accent on Black background
-          colors: '{"accent": "#00BFFF", "header": "#ffffff", "text": "#c9d1d9", "background": "#0d1117"}'
+          extras_css: |
+            h2, .field { color: #00BFFF !important; }
+            svg { background: #0d1117 !important; }
 
       - name: Base Metrics (Light)
         uses: lowlighter/metrics@latest
@@ -33,5 +34,6 @@ jobs:
           filename: assets/metrics.base.light.svg
           config_timezone: Asia/Kolkata
           base: "activity, community"
-          # Light: Green accent on White background
-          colors: '{"accent": "#32CD32", "header": "#333333", "text": "#333333", "background": "#ffffff"}'
+          extras_css: |
+            h2, .field { color: #32CD32 !important; }
+            svg { background: #ffffff !important; }

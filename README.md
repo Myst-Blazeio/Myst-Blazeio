@@ -37,10 +37,18 @@
 
 </div>
 
-<br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.2); margin: 20px 0;"><br>
+<br><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32,100:32CD32&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%">
+</picture><br>
 
 <!-- COMPACT SIDE-BY-SIDE STATS -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=32CD32&fontAlignY=65&desc=&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20PROFESSIONAL%20DATA&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+</picture>
 
 <!-- SINGLE ROW TROPHIES MATCHING THEME -->
 <div align="center">
@@ -92,22 +100,54 @@
 
 <!-- REPOSITORY METRICS (INTRO, BASE, LINES, WAKATIME, CALENDAR) -->
 <div align="center">
-  <img src="assets/metrics.intro.svg" alt="Introduction Stats" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.intro.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.intro.light.svg">
+    <img src="assets/metrics.intro.dark.svg" alt="Introduction Stats" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  </picture>
   <br><br>
-  <img src="assets/metrics.base.svg" alt="Activity & Community" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.base.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.base.light.svg">
+    <img src="assets/metrics.base.dark.svg" alt="Activity & Community" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  </picture>
   <br><br>
-  <img src="assets/metrics.lines.svg" alt="Code Lines & Followup" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.lines.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.lines.light.svg">
+    <img src="assets/metrics.lines.dark.svg" alt="Code Lines & Followup" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  </picture>
   <br><br>
-  <img src="assets/metrics.wakatime.svg" alt="WakaTime" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.wakatime.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.wakatime.light.svg">
+    <img src="assets/metrics.wakatime.dark.svg" alt="WakaTime" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  </picture>
   <br><br>
-  <img src="assets/metrics.calendar.svg" alt="Isometric Calendar" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.calendar.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.calendar.light.svg">
+    <img src="assets/metrics.calendar.dark.svg" alt="Isometric Calendar" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  </picture>
   <br><br>
 </div>
-<br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.2); margin: 20px 0;"><br>
+<br><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:32CD32,100:32CD32&height=2&section=header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&section=header" width="100%">
+</picture><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=32CD32&fontAlignY=65&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn" width="100%">
+</picture>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;CORE LANGUAGES</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=300&height=30&lines=%E2%97%88+%20CORE+LANGUAGES">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=300&height=30&lines=%E2%97%88+%20CORE+LANGUAGES">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=300&height=30&lines=%E2%97%88+%20CORE+LANGUAGES" alt="Core Languages" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
@@ -120,7 +160,11 @@
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=flat&logo=godotengine&logoColor=white">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;FRONTEND &amp; WEB STACK</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88+%20FRONTEND+%26+WEB+STACK">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=450&height=30&lines=%E2%97%88+%20FRONTEND+%26+WEB+STACK">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88+%20FRONTEND+%26+WEB+STACK" alt="Frontend & Web Stack" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
@@ -139,7 +183,11 @@
   <img src="https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;BACKEND SYSTEMS &amp; APIs</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88+%20BACKEND+SYSTEMS+%26+APIs">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=450&height=30&lines=%E2%97%88+%20BACKEND+SYSTEMS+%26+APIs">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88+%20BACKEND+SYSTEMS+%26+APIs" alt="Backend Systems & APIs" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
@@ -152,7 +200,11 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;DATABASE &amp; CLOUD MAINFRAMES</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20DATABASE+%26+CLOUD+MAINFRAMES">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88+%20DATABASE+%26+CLOUD+MAINFRAMES">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20DATABASE+%26+CLOUD+MAINFRAMES" alt="Database & Cloud" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/Firebase-ED6A31?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
@@ -166,7 +218,11 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;DEVOPS &amp; SECURITY OPS</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88+%20DEVOPS+%26+SECURITY+OPS">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=450&height=30&lines=%E2%97%88+%20DEVOPS+%26+SECURITY+OPS">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=450&height=30&lines=%E2%97%88+%20DEVOPS+%26+SECURITY+OPS" alt="DevOps & Security" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/Git-FF6C37?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white">
@@ -184,7 +240,11 @@
   <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=flat&logo=junit5&logoColor=dc524a">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;AI, NEURAL &amp; DATA COMPUTING</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20AI%2C+NEURAL+%26+DATA+COMPUTING">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88+%20AI%2C+NEURAL+%26+DATA+COMPUTING">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20AI%2C+NEURAL+%26+DATA+COMPUTING" alt="AI & Neural" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white">
@@ -199,7 +259,11 @@
   <img src="https://img.shields.io/badge/OpenCV-FF0000?style=flat&logo=OpenCV&logoColor=white">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;VISUALS, RENDERING &amp; ANIMATION</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20VISUALS%2C+RENDERING+%26+ANIMATION">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88+%20VISUALS%2C+RENDERING+%26+ANIMATION">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20VISUALS%2C+RENDERING+%26+ANIMATION" alt="Visuals & Rendering" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
@@ -222,7 +286,11 @@
   <img src="https://img.shields.io/badge/Audacity-0000CC.svg?style=flat&logo=audacity&logoColor=white">
 </p>
 
-<h3><span style="color:#00BFFF">◈ &nbsp;OPERATING SYSTEMS &amp; PLATFORMS</span></h3>
+<h3><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20OPERATING+SYSTEMS+%26+PLATFORMS">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=32CD32&width=550&height=30&lines=%E2%97%88+%20OPERATING+SYSTEMS+%26+PLATFORMS">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&width=550&height=30&lines=%E2%97%88+%20OPERATING+SYSTEMS+%26+PLATFORMS" alt="OS & Platforms" />
+</picture></h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white">
@@ -246,14 +314,26 @@
 <br><hr style="border: none; height: 1px; background: rgba(0, 191, 255, 0.2); margin: 20px 0;"><br>
 
 <!-- RECREATIONAL DATA -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:ffffff&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=32CD32&fontAlignY=65&desc=&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
+</picture>
 
 <div align="center">
-  <img src="assets/metrics.anilist.svg" alt="AniList Progress" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.anilist.dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/metrics.anilist.light.svg">
+    <img src="assets/metrics.anilist.dark.svg" alt="AniList Progress" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
+  </picture>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=60&section=footer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=60&section=footer" width="100%"/>
+  </picture>
 </div>

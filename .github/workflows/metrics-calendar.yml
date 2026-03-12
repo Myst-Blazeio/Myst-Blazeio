@@ -23,8 +23,9 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # Dark: Blue accent on Black background
-          colors: '{"accent": "#00BFFF", "header": "#ffffff", "text": "#c9d1d9", "background": "#0d1117"}'
+          extras_css: |
+            h2, .field { color: #00BFFF !important; }
+            svg { background: #0d1117 !important; }
 
       - name: Calendar Metrics (Light)
         uses: lowlighter/metrics@latest
@@ -37,5 +38,6 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-          # Light: Green accent on White background
-          colors: '{"accent": "#32CD32", "header": "#6db33f", "text": "#333333", "background": "#ffffff"}'
+          extras_css: |
+            h2, .field { color: #32CD32 !important; }
+            svg { background: #ffffff !important; }
