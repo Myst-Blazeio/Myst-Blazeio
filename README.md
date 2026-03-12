@@ -81,8 +81,6 @@
     </td>
   </tr>
 </table>
-### ☺ About me
-Fullstack Developer, UI/UX Designer, and Animator. I specialize in building immersive digital experiences that blend aesthetic design with robust technical foundations. Constantly pushing boundaries, I strive to create high-performance applications that are both visually stunning and intuitively functional.
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=myst-blazeio&background=0d1117&stroke=00BFFF&ring=FFD700&fire=FFD700&currStreakNum=00BFFF&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9&border_radius=15&border=00BFFF">
