@@ -10,9 +10,9 @@
 
 <div align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=32CD32&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=1000&color=00BFFF&width=600&height=40&lines=Initiating+Digital+Dive...;Pushkar+Pan+%7C+FullStack+Developer;Animator+%7C+UI/UX+Designer" alt="Pushkar Pan Hub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00BFFF&width=700&height=40&lines=INITIATING+DIGITAL+DIVE...;PUSHKAR+PAN+%7C+22+YEARS+OLD+%7C+INDIA;FULLSTACK+DEVELOPER+%7C+ANIMATOR+%7C+UI%2FUX+DESIGNER">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=32CD32&width=700&height=40&lines=INITIATING+DIGITAL+DIVE...;PUSHKAR+PAN+%7C+22+YEARS+OLD+%7C+INDIA;FULLSTACK+DEVELOPER+%7C+ANIMATOR+%7C+UI%2FUX+DESIGNER">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=3000&pause=1000&color=00BFFF&width=700&height=40&lines=INITIATING+DIGITAL+DIVE...;PUSHKAR+PAN+%7C+22+YEARS+OLD+%7C+INDIA;FULLSTACK+DEVELOPER+%7C+ANIMATOR+%7C+UI%2FUX+DESIGNER" alt="Pushkar Pan Hub" />
   </picture>
 
   <p style="margin-top: 5px; color: #c9d1d9;">
@@ -40,7 +40,7 @@
 <br>
 
 <!-- COMPACT SIDE-BY-SIDE STATS -->
-## 📸 Telemetry Logs // GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20TELEMETRY%20LOGS%20//%20MISSION%20STATS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
 <!-- SINGLE ROW TROPHIES MATCHING THEME -->
 <div align="center">
@@ -98,9 +98,9 @@
 
 
 
-## 🧩 The Arsenal // Classified Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn" width="100%">
 
-<h3 style="color: #00BFFF;">💻 Core Languages</h3>
+<h3><img src="https://img.shields.io/badge/▸ CORE LANGUAGES-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
@@ -113,7 +113,7 @@
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=flat&logo=godotengine&logoColor=white">
 </p>
 
-<h3 style="color: #FFD700;">🚀 Frontend & Web Elements</h3>
+<h3><img src="https://img.shields.io/badge/▸ FRONTEND %26 WEB STACK-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black">
 </p>
 
-<h3 style="color: #00BFFF;">⚙️ Backend Systems & APIs</h3>
+<h3><img src="https://img.shields.io/badge/▸ BACKEND SYSTEMS %26 APIs-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
@@ -145,7 +145,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </p>
 
-<h3 style="color: #FFD700;">🗄️ Database & Cloud Mainframes</h3>
+<h3><img src="https://img.shields.io/badge/▸ DATABASE %26 CLOUD MAINFRAMES-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/Firebase-ED6A31?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
@@ -159,7 +159,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 </p>
 
-<h3 style="color: #00BFFF;">🔧 DevOps & Security</h3>
+<h3><img src="https://img.shields.io/badge/▸ DEVOPS %26 SECURITY OPS-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/Git-FF6C37?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white">
@@ -177,7 +177,7 @@
   <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=flat&logo=junit5&logoColor=dc524a">
 </p>
 
-<h3 style="color: #FFD700;">🤖 AI, Neural & Data Computing</h3>
+<h3><img src="https://img.shields.io/badge/▸ AI%2C NEURAL %26 DATA COMPUTING-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white">
@@ -192,7 +192,7 @@
   <img src="https://img.shields.io/badge/OpenCV-FF0000?style=flat&logo=OpenCV&logoColor=white">
 </p>
 
-<h3 style="color: #00BFFF;">🎨 Visuals, Rendering & Animation</h3>
+<h3><img src="https://img.shields.io/badge/▸ VISUALS%2C RENDERING %26 ANIMATION-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
@@ -215,7 +215,7 @@
   <img src="https://img.shields.io/badge/Audacity-0000CC.svg?style=flat&logo=audacity&logoColor=white">
 </p>
 
-<h3 style="color: #FFD700;">🌍 Operating Systems & Platforms</h3>
+<h3><img src="https://img.shields.io/badge/▸ OPERATING SYSTEMS %26 PLATFORMS-00BFFF?style=flat-square&labelColor=0d1117"></h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white">
