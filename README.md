@@ -30,7 +30,7 @@
   <a href="https://instagram.com/myst_blazeio"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
   <a href="https://blazeio.artstation.com/"><img src="https://img.shields.io/badge/ArtStation-%23132032.svg?style=flat&logo=artstation&logoColor=white"></a>
   <a href="https://www.leetcode.com/pushkar_pan"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a>
-  <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
+  <a href="https://discordapp.com/users/606529207870423052"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"></a>
   <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait"></a>
@@ -100,7 +100,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20THE%20ARSENAL%20//%20CLASSIFIED%20TECH%20STACK&fontSize=18&fontColor=00BFFF&fontAlignY=65&animation=fadeIn" width="100%">
 
-<h3><img src="https://img.shields.io/badge/▸ CORE LANGUAGES-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;CORE LANGUAGES</span></h3>
 <p>
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white">
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white">
@@ -113,7 +113,7 @@
   <img src="https://img.shields.io/badge/GDScript-%2374267B.svg?style=flat&logo=godotengine&logoColor=white">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ FRONTEND %26 WEB STACK-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;FRONTEND &amp; WEB STACK</span></h3>
 <p>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
   <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
@@ -132,7 +132,7 @@
   <img src="https://img.shields.io/badge/Jinja-white.svg?style=flat&logo=jinja&logoColor=black">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ BACKEND SYSTEMS %26 APIs-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;BACKEND SYSTEMS &amp; APIs</span></h3>
 <p>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB">
@@ -145,7 +145,7 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ DATABASE %26 CLOUD MAINFRAMES-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;DATABASE &amp; CLOUD MAINFRAMES</span></h3>
 <p>
   <img src="https://img.shields.io/badge/Firebase-ED6A31?style=flat&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white">
@@ -159,7 +159,7 @@
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ DEVOPS %26 SECURITY OPS-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;DEVOPS &amp; SECURITY OPS</span></h3>
 <p>
   <img src="https://img.shields.io/badge/Git-FF6C37?style=flat&logo=Git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white">
@@ -177,7 +177,7 @@
   <img src="https://img.shields.io/badge/JUnit5-f5f5f5?style=flat&logo=junit5&logoColor=dc524a">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ AI%2C NEURAL %26 DATA COMPUTING-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;AI, NEURAL &amp; DATA COMPUTING</span></h3>
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white">
@@ -192,7 +192,7 @@
   <img src="https://img.shields.io/badge/OpenCV-FF0000?style=flat&logo=OpenCV&logoColor=white">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ VISUALS%2C RENDERING %26 ANIMATION-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;VISUALS, RENDERING &amp; ANIMATION</span></h3>
 <p>
   <img src="https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white">
@@ -215,7 +215,7 @@
   <img src="https://img.shields.io/badge/Audacity-0000CC.svg?style=flat&logo=audacity&logoColor=white">
 </p>
 
-<h3><img src="https://img.shields.io/badge/▸ OPERATING SYSTEMS %26 PLATFORMS-00BFFF?style=for-the-badge&labelColor=0d1117"></h3>
+<h3><span style="color:#00BFFF">◈ &nbsp;OPERATING SYSTEMS &amp; PLATFORMS</span></h3>
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=ubuntu&logoColor=white">
