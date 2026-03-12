@@ -33,7 +33,7 @@
   <a href="https://auth.geeksforgeeks.org/user/pushkar_pan/profile"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=flat&logo=geeksforgeeks&logoColor=35914c"></a>
   <a href="mailto:pushkarpan03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://linktr.ee/BlazeioX"><img src="https://img.shields.io/badge/Linktree-1de9b6?style=flat&logo=linktree&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait">
+  <a><img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait"></a>
 
 </div>
 
