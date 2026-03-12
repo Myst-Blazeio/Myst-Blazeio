@@ -33,17 +33,17 @@
   <br clear="left"/>
 </div>
 
-<div align="center">
+<p>
   <a href="https://github.com/myst-blazeio">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
       <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
-      <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
+      <img align="left" src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
     </picture>
   </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait">
-</div>
+  <img align="right" src="https://img.shields.io/badge/%E2%9A%A1_Trait-Incredibly_fast_learner-FFD700?style=flat&labelColor=0d1117" alt="Trait">
+</p>
+<br clear="both" />
 
 <br>
 
