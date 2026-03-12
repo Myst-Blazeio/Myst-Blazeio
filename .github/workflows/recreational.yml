@@ -19,6 +19,7 @@ jobs:
           template: classic
           filename: assets/metrics.recreational.svg
           config_timezone: Asia/Kolkata
+          config_footer: no
           base: "" # No base content needed for recreational
           
           # AniList plugin
