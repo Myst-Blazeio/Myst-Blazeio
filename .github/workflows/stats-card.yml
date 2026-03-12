@@ -25,7 +25,7 @@ jobs:
           config_padding: 6%, 10%
           base: "activity, repositories"
           base_indepth: yes
-          config_extras_css: |
+          extras_css: |
             :root {
               --color-text: #c9d1d9;
               --color-border: #00BFFF;
