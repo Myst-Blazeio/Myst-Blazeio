@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="assets/videos/banner video.mp4" poster="assets/images/MYST-BLAZEIO.png" autoplay loop muted width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);"></video>
+  <video src="https://github.com/Myst-Blazeio/Myst-Blazeio/raw/main/assets/videos/banner-video.mp4" poster="https://github.com/Myst-Blazeio/Myst-Blazeio/raw/main/assets/images/MYST-BLAZEIO.png" autoplay loop muted width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);"></video>
 </div>
 
 <br>
