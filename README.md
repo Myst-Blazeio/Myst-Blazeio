@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/images/MYST-BLAZEIO.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/images/MYST-BLAZEIO.png">
-    <img src="assets/images/MYST-BLAZEIO.png" alt="Myst Blazeio Banner" width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/images/banner.gif">
+    <source media="(prefers-color-scheme: light)" srcset="assets/images/banner.gif">
+    <img src="assets/images/banner.gif" alt="Myst Blazeio Banner" width="100%" style="border-radius: 15px; border: 2px solid rgba(0, 191, 255, 0.4); box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
   </picture>
 </div>
 
