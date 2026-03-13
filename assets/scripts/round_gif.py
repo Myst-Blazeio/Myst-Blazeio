@@ -8,50 +8,46 @@ def add_rounded_corners(input_path, output_path, radius):
 
     print(f"Processing {input_path}...")
     with Image.open(input_path) as im:
-        frames = []
-        durations = []
+        width, height = im.size
         
         # Create mask
-        width, height = im.size
         mask = Image.new('L', (width, height), 0)
         draw = ImageDraw.Draw(mask)
         draw.rounded_rectangle((0, 0, width, height), radius, fill=255)
         
+        frames = []
         try:
-            while True:
-                # Convert frame to RGBA
+            for i in range(im.n_frames):
+                im.seek(i)
+                # Ensure we have a clean RGBA frame
                 frame = im.convert('RGBA')
                 
-                # Apply mask to alpha channel
+                # Apply mask: anything outside the mask becomes transparent
                 new_frame = Image.new('RGBA', (width, height), (0, 0, 0, 0))
+                # Paste the original frame through the mask
                 new_frame.paste(frame, (0, 0), mask=mask)
                 
                 frames.append(new_frame)
-                durations.append(im.info.get('duration', 40)) 
-                
-                if im.n_frames == 1:
-                    break
-                im.seek(im.tell() + 1)
         except EOFError:
             pass
 
         if frames:
             # Save the new GIF
+            # Disposal=2 (restore to background) is critical for transparency to work correctly between frames
             frames[0].save(
                 output_path,
                 save_all=True,
                 append_images=frames[1:],
-                duration=durations,
+                duration=im.info.get('duration', 40),
                 loop=im.info.get('loop', 0),
                 disposal=2,
-                transparency=0
+                optimize=False
             )
             print(f"Rounded GIF saved to: {output_path}")
 
-# Construct paths relative to the script location or use absolute paths correctly
 script_dir = os.path.dirname(os.path.abspath(__file__))
 project_root = os.path.dirname(os.path.dirname(script_dir))
 input_gif = os.path.join(project_root, "assets", "images", "banner.gif")
-output_gif = os.path.join(project_root, "assets", "images", "banner.gif") # Overwrite
+output_gif = os.path.join(project_root, "assets", "images", "banner.gif")
 
-add_rounded_corners(input_gif, output_gif, 40) # Increased radius for visible curve
+add_rounded_corners(input_gif, output_gif, 40)
