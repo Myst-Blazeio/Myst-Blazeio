@@ -98,8 +98,6 @@
   <br><br>
   <img src="assets/metrics.lines.svg" alt="Code Lines & Followup" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
-  <img src="assets/metrics.wakatime.svg" alt="WakaTime" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
-  <br><br>
   <img src="assets/metrics.calendar.svg" alt="Isometric Calendar" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
   <br><br>
 </div>
