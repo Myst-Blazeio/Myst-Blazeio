@@ -246,6 +246,13 @@
 <!-- RECREATIONAL DATA -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=58bf4a&bar_color_cover=true&mode=dark">
+  </a>
+</p>
+
+<br>
 <div align="center">
   <img src="assets/metrics.anilist.svg" alt="AniList Progress" width="100%" style="border-radius: 15px; border: 1.5px solid #00BFFF;">
 </div>
