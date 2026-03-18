@@ -248,11 +248,9 @@
 <!-- RECREATIONAL DATA -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
-<p align="center" style="border: 2px solid #00BFFF; border-radius: 15px; display: inline-block; padding: 5px; background-color: #0d1117;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&profanity=true&bar_color=58bf4a&bar_color_cover=true&mode=dark" 
-         width="100%" 
-         style="border-radius: 15px; border: 2px solid #00BFFF;">
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
 
