@@ -184,6 +184,7 @@
 
 <h3><span style="color:#00BFFF">◈ &nbsp;AI, NEURAL &amp; DATA COMPUTING</span></h3>
 <p>
+  <img src="https://img.shields.io/badge/Antigravity-00BFFF?style=flat&logo=google&logoColor=white">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google%20gemini&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=flat&logo=github-copilot&logoColor=white">
@@ -246,11 +247,13 @@
 <!-- RECREATIONAL DATA -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
-<p align="center" style="border: 2px solid #00BFFF; border-radius: 15px; display: inline-block; padding: 5px; background-color: #0d1117;">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&profanity=true&bar_color=58bf4a&bar_color_cover=true&mode=dark" style="border-radius: 15px;">
-  </a>
-</p>
+<div align="center">
+  <p style="border: 2px solid #00BFFF; border-radius: 15px; display: inline-block; padding: 10px; background-color: #0d1117; box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&profanity=true&bar_color=58bf4a&bar_color_cover=true&mode=dark" style="border-radius: 10px;">
+    </a>
+  </p>
+</div>
 
 
 <br>
