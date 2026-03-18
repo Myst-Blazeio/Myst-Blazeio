@@ -23,6 +23,7 @@
 <div align="start">
 
 <a href="https://github.com/myst-blazeio" target="_blank" rel="noopener noreferrer"><picture>
+
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
   <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
   <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
@@ -247,12 +248,13 @@
 <!-- RECREATIONAL DATA -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=40&section=header&text=◈%20RECREATIONAL%20DATA%20//%20HOBBY%20PROTOCOLS&fontSize=18&fontColor=00BFFF&fontAlignY=65&desc=&animation=fadeIn" width="100%">
 
-<div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&profanity=true&bar_color=58bf4a&bar_color_cover=true&mode=dark" style="border: 2px solid #00BFFF; border-radius: 15px; box-shadow: 0 4px 30px rgba(0, 191, 255, 0.2);">
+<p align="center" style="border: 2px solid #00BFFF; border-radius: 15px; display: inline-block; padding: 5px; background-color: #0d1117;">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31plseekbxuhxmvq4gzg7baooyxa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=0d1117&interchange=true&profanity=true&bar_color=58bf4a&bar_color_cover=true&mode=dark" 
+         width="100%" 
+         style="border-radius: 15px; border: 2px solid #00BFFF;">
   </a>
-</div>
-
+</p>
 
 <br>
 <div align="center">
