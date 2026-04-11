@@ -1,0 +1,105 @@
+name: 🗑️ Delete All Workflow Runs
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: 'Type "DELETE" to confirm bulk deletion of ALL workflow runs'
+        required: true
+        default: ""
+      skip_current:
+        description: "Skip the currently running workflow? (recommended: true)"
+        required: true
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+jobs:
+  delete-runs:
+    name: Bulk Delete Workflow Runs
+    runs-on: ubuntu-latest
+    if: github.event.inputs.confirm == 'DELETE'
+    permissions:
+      actions: write
+
+    steps:
+      - name: 🔍 Fetch & Delete All Workflow Runs
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          CURRENT_RUN_ID: ${{ github.run_id }}
+          SKIP_CURRENT: ${{ github.event.inputs.skip_current }}
+        run: |
+          echo "=============================================="
+          echo "  🗑️  BULK WORKFLOW RUN DELETION INITIATED"
+          echo "=============================================="
+          echo "Repository : $REPO"
+          echo "Current Run: $CURRENT_RUN_ID (skip=$SKIP_CURRENT)"
+          echo ""
+
+          PAGE=1
+          DELETED=0
+          SKIPPED=0
+          FAILED=0
+
+          while true; do
+            echo "📄 Fetching page $PAGE of workflow runs..."
+
+            RESPONSE=$(gh api \
+              "repos/$REPO/actions/runs?per_page=100&page=$PAGE" \
+              --jq '.workflow_runs | length, .[].id')
+
+            # First line is the count of runs on this page
+            COUNT=$(echo "$RESPONSE" | head -n 1)
+            RUN_IDS=$(echo "$RESPONSE" | tail -n +2)
+
+            if [ "$COUNT" -eq 0 ] || [ -z "$RUN_IDS" ]; then
+              echo "✅ No more runs found on page $PAGE. Stopping."
+              break
+            fi
+
+            echo "   Found $COUNT run(s) on page $PAGE."
+
+            while IFS= read -r RUN_ID; do
+              # Optionally skip the currently running workflow
+              if [ "$SKIP_CURRENT" = "true" ] && [ "$RUN_ID" = "$CURRENT_RUN_ID" ]; then
+                echo "   ⏭️  Skipping current run: $RUN_ID"
+                SKIPPED=$((SKIPPED + 1))
+                continue
+              fi
+
+              HTTP_STATUS=$(gh api \
+                --method DELETE \
+                "repos/$REPO/actions/runs/$RUN_ID" \
+                -i 2>/dev/null | head -n 1 | awk '{print $2}')
+
+              if [ "$HTTP_STATUS" = "204" ]; then
+                echo "   ✅ Deleted run: $RUN_ID"
+                DELETED=$((DELETED + 1))
+              else
+                echo "   ⚠️  Failed to delete run: $RUN_ID (HTTP $HTTP_STATUS)"
+                FAILED=$((FAILED + 1))
+              fi
+            done <<< "$RUN_IDS"
+
+            PAGE=$((PAGE + 1))
+          done
+
+          echo ""
+          echo "=============================================="
+          echo "  📊  DELETION SUMMARY"
+          echo "=============================================="
+          echo "  ✅ Deleted : $DELETED run(s)"
+          echo "  ⏭️  Skipped : $SKIPPED run(s)"
+          echo "  ❌ Failed  : $FAILED run(s)"
+          echo "=============================================="
+
+      - name: ❌ Aborted — Confirmation Not Matched
+        if: github.event.inputs.confirm != 'DELETE'
+        run: |
+          echo "⛔ Deletion aborted."
+          echo "You must type exactly: DELETE"
+          echo "Got: '${{ github.event.inputs.confirm }}'"
+          exit 1
