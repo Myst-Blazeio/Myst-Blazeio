@@ -1,0 +1,53 @@
+name: 🔄 Refresh All Metrics
+
+on:
+  workflow_dispatch:
+
+jobs:
+  trigger-all:
+    name: Trigger All Metric Workflows
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+
+    steps:
+      - name: 🚀 Dispatch All Metrics Workflows
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          echo "=============================================="
+          echo "  🔄  TRIGGERING ALL METRICS WORKFLOWS"
+          echo "=============================================="
+
+          WORKFLOWS=(
+            "metrics-intro.yml"
+            "metrics-base.yml"
+            "metrics-lines.yml"
+            "metrics-calendar.yml"
+            "metrics-anilist.yml"
+          )
+
+          SUCCESS=0
+          FAILED=0
+
+          for WF in "${WORKFLOWS[@]}"; do
+            echo -n "  ▶ Triggering $WF ... "
+            gh workflow run "$WF" --repo "$REPO" --ref main \
+              && echo "✅ OK" && SUCCESS=$((SUCCESS + 1)) \
+              || echo "❌ FAILED" && FAILED=$((FAILED + 1))
+            sleep 2
+          done
+
+          echo ""
+          echo "=============================================="
+          echo "  📊  TRIGGER SUMMARY"
+          echo "=============================================="
+          echo "  ✅ Triggered : $SUCCESS workflow(s)"
+          echo "  ❌ Failed    : $FAILED workflow(s)"
+          echo "=============================================="
+          echo ""
+          echo "  ℹ️  All triggered workflows will run in"
+          echo "     parallel. Check the Actions tab to"
+          echo "     monitor their individual progress."
+          echo "=============================================="
