@@ -22,12 +22,7 @@
 
 <div align="start">
 
-<a href="https://github.com/myst-blazeio" target="_blank" rel="noopener noreferrer"><picture>
-
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=32CD32&style=flat">
-  <img src="https://komarev.com/ghpvc/?username=myst-blazeio&label=Dives+Into+Profile&color=00BFFF&style=flat" alt="Profile views" />
-</picture></a>
+<a href="https://github.com/myst-blazeio" target="_blank" rel="noopener noreferrer"><img src="https://visitor-badge.laobi.icu/badge?page_id=myst-blazeio.repoName" /></a>
 <a href="https://instagram.com/myst_blazeio" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white"></a>
 <a href="https://blazeio.artstation.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/ArtStation-%23132032.svg?style=flat&logo=artstation&logoColor=white"></a>
 <a href="https://www.leetcode.com/pushkar_pan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=white"></a>
