@@ -1,0 +1,44 @@
+name: Activity Graph Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths:
+      - ".github/workflows/activity-graph.yml"
+
+jobs:
+  activity-graph:
+    name: Generate Activity Graph SVGs
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Dark Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: myst-blazeio
+          options: "bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15"
+          output_path: assets/activity-graph-dark.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Generate Light Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: myst-blazeio
+          options: "bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15"
+          output_path: assets/activity-graph-light.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/activity-graph-dark.svg assets/activity-graph-light.svg
+          git diff --staged --quiet || (git commit -m "Update activity graph SVGs - [Skip GitHub Action]" && git push)

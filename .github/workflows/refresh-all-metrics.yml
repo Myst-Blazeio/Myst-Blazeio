@@ -26,6 +26,7 @@ jobs:
             "metrics-lines.yml"
             "metrics-calendar.yml"
             "metrics-anilist.yml"
+            "activity-graph.yml"
           )
 
           SUCCESS=0

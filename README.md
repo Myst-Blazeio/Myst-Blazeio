@@ -51,9 +51,9 @@
 <!-- PRIMARY TELEMETRY GRAPHS -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=f0fff0&color=333333&line=32CD32&point=32CD32&area=true&hide_border=false&title_color=32CD32&radius=15">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=myst-blazeio&bg_color=0d1117&color=c9d1d9&line=FFD700&point=00BFFF&area=true&hide_border=false&title_color=00BFFF&radius=15" alt="Activity Graph" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/activity-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/activity-graph-light.svg">
+    <img src="assets/activity-graph-dark.svg" alt="Activity Graph" width="100%">
   </picture>
 </div>
 <br>
